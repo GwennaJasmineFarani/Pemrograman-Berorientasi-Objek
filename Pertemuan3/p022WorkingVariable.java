@@ -14,3 +14,6 @@ public class p022WorkingVariable {
     }
     
 }
+
+/* Nama : Gwenna Jasmine Farani
+Tanggal : 12 / 2/ 2026 /* 

@@ -14,3 +14,5 @@ public class p023PrimitiveData {
         System.out.println("Status Lulus    :" + lulus);
     }
 }
+/* Nama : Gwenna Jasmine Farani
+Tanggal : 12/2/2026 */
