@@ -1,0 +1,26 @@
+package Pertemuan8;
+
+public class LatihanKombinasiLoop {
+    public static void main(String[] args) {
+         System.out.println("=== PENCARIAN KOORDINAT [2,3] ===");
+
+        outerLoop:
+        for (int baris = 1; baris <= 3; baris++) {
+            for (int kolom = 1; kolom <= 5; kolom++) {
+
+                System.out.println("Cek: [" + baris + "," + kolom + "]");
+
+                if (baris == 2 && kolom == 3) {
+                    System.out.println("✓ Koordinat ditemukan!");
+                    break outerLoop; // keluar dari semua loop
+                }
+            }
+        }
+
+        System.out.println("Pencarian selesai.");
+    }
+}
+
+/* Nama : Gwenna Jasmine Farani (D1041241079)
+Tanggal : 26 / 2 / 2026 */
+
