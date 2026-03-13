@@ -7,13 +7,13 @@ public class LatihanRefleksi {
     int a = 1; 
     while (a <= 5) {  // menggunakan while
     System.out.print(a + " ");
-    a++; // Update
+        a++; // Update
     }
 
     System.out.println(); 
 
     System.out.println(" === MENGGUNAKAN DO-WHILE LOOP ===");
-    int b = 1; // Inisialisasi
+    int b = 1; 
     do {
     System.out.print(b + " ");
         b++; // Update
