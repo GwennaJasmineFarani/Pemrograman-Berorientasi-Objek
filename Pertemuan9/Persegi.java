@@ -6,17 +6,17 @@ public class Persegi {
     int luas;
     int keliling;
 
-    // Method menghitung luas
+    // menghitung luas
     public void hitungLuas() {
         luas = sisi * sisi;
     }
 
-    // Method menghitung keliling
+    // menghitung keliling
     public void hitungKeliling() {
         keliling = 4 * sisi;
     }
 
-    // Method menampilkan hasil
+    // menampilkan hasil
     public void tampilkanHasil() {
         System.out.println("=== PERSEGI ===");
         System.out.println("Sisi     : " + sisi + " cm");

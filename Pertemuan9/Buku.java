@@ -16,13 +16,13 @@ public class Buku {
 
     public static void main(String[] args) {
 
-        // Objek buku pertama
+        // buku pertama
         Buku buku1 = new Buku();
         buku1.judul = "Pemrograman Java";
         buku1.pengarang = "Budi Raharjo";
         buku1.harga = 125000;
 
-        // Objek buku kedua
+        // buku kedua
         Buku buku2 = new Buku();
         buku2.judul = "Algoritma dan Struktur Data";
         buku2.pengarang = "Rinaldi Munir";
